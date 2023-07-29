@@ -7,20 +7,10 @@ os.chdir("film_player")
 os.chdir("film_storage")
 
 
-for i in alfavit:
+#for i in alfavit:
     #os.mkdir(i)
 
 print(os.getcwd())
-
-
-
-
-
-
-
-
-
-
 
 
 
